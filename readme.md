@@ -2,11 +2,12 @@
 # 编译
 
 ```
-go build main.go 
+go build src/service.go 
 ```
 
 # 执行
 
 ```
-./main
+./service
 ```
+
